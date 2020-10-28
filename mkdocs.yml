@@ -12,7 +12,7 @@ copyright: Copyright &copy; 2020 CCBR
 
 # Configuration
 theme:
-  name: mkdocs
+  name: readthedocs
   palette:
     scheme: default
 
