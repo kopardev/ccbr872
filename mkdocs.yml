@@ -12,16 +12,12 @@ copyright: Copyright &copy; 2020 CCBR
 
 # Configuration
 theme:
-  name: material
+  name: mkdocs
   palette:
     scheme: default
 
-# Plugins
 plugins:
   - search
-  - minify:
-      minify_html: true
-
 
 # Customization
 extra:
